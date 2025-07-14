@@ -1,37 +1,37 @@
 [
   {
     "surahName": "Shoora",
-    "rukou": "1",
+    "rukuNumber": "1",
     "status": "pending"
   },
   {
     "surahName": "Shoora",
-    "rukou": "2",
+    "rukuNumber": "2",
     "status": "pending"
   },
   {
     "surahName": "Shoora",
-    "rukou": "3",
+    "rukuNumber": "3",
     "status": "pending"
   },
   {
     "surahName": "Shoora",
-    "rukou": "4",
-    "status": "pending"
+    "rukuNumber": "4",
+    "status": "done"
   },
   {
     "surahName": "Shoora",
-    "rukou": "5",
+    "rukuNumber": "5",
+    "status": "done"
+  },
+  {
+    "surahName": "Zukhruf",
+    "rukuNumber": "1",
     "status": "pending"
   },
   {
     "surahName": "Zukhruf",
-    "rukou": "1",
-    "status": "pending"
-  },
-  {
-    "surahName": "Zukhruf",
-    "rukou": "2",
+    "rukuNumber": "2",
     "status": "pending"
   }
 ]
