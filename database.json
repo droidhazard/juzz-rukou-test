@@ -17,12 +17,12 @@
   {
     "surahName": "Shoora",
     "rukuNumber": "4",
-    "status": "done"
+    "status": "pending"
   },
   {
     "surahName": "Shoora",
     "rukuNumber": "5",
-    "status": "done"
+    "status": "pending"
   },
   {
     "surahName": "Zukhruf",
@@ -31,6 +31,481 @@
   },
   {
     "surahName": "Zukhruf",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zukhruf",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zukhruf",
+    "rukuNumber": "4",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zukhruf",
+    "rukuNumber": "5",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zukhruf",
+    "rukuNumber": "6",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zukhruf",
+    "rukuNumber": "7",
+    "status": "pending"
+  },
+  {
+    "surahName": "Dukhan",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Dukhan",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Dukhan",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jaathiyah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jaathiyah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jaathiyah",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Ahqaaf",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Ahqaaf",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Ahqaaf",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Ahqaaf",
+    "rukuNumber": "4",
+    "status": "pending"
+  },
+  {
+    "surahName": "Muhammad",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Muhammad",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Muhammad",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Muhammad",
+    "rukuNumber": "5",
+    "status": "pending"
+  },
+  {
+    "surahName": "Fat'h",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Fat'h",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Fat'h",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Fat'h",
+    "rukuNumber": "4",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hujurat",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hujurat",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qaaf",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qaaf",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qaaf",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zaariyat",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zaariyat",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Zaariyat",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Toor",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Toor",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Najm",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Najm",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Najm",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qamar",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qamar",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qamar",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Rahman",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Rahman",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Rahman",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Waaqiyah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Waaqiyah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Waaqiyah",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hadeed",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hadeed",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hadeed",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hadeed",
+    "rukuNumber": "4",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mujadalah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mujadalah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mujadalah",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hashr",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hashr",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Hashr",
+    "rukuNumber": "3",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mumtahinah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mumtahinah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Saff",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Saff",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jumuah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jumuah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Munafiqoon",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Munafiqoon",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Taghabun",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Taghabun",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Talaaq",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Talaaq",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Tahreem",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Tahreem",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mulk",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mulk",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qalam",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qalam",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Haaqqah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Haaqqah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Maarij",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Maarij",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Nooh",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Nooh",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jinn",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Jinn",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Muzzammil",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Muzzammil",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mudathir",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mudathir",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qiyamah",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Qiyamah",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Dahr",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Dahr",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mursalat",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Mursalat",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Naba",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Naba",
+    "rukuNumber": "2",
+    "status": "pending"
+  },
+  {
+    "surahName": "Naaziat",
+    "rukuNumber": "1",
+    "status": "pending"
+  },
+  {
+    "surahName": "Naaziat",
     "rukuNumber": "2",
     "status": "pending"
   }
